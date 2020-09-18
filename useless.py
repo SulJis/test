@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
 
-print("have a short cock")
+print("have a very short cock")
